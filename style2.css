@@ -24,11 +24,12 @@ html {
 }
 
 .about-section {
-  padding: 50px;
-  text-align: center;
-  background-color: #2e323b;
-  color: white;
-  margin: 30;
+  max-width: 800px;
+      margin: auto;
+      text-align: center;
+      padding: 20px;
+      background-color: #F58FBD;
+      color: black  ;
 }
 
 .container {
